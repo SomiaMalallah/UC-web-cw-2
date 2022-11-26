@@ -1,0 +1,17 @@
+h1{
+    color: rgb(255, 60, 0);
+    text-align: center;
+
+}
+h2{background-color: rgba(0, 255, 128, 0.568);}
+h3{background-color: rgba(255, 255, 0, 0.507);}
+p{background-color: blueviolet;}
+body{border-style: double;}
+.card{
+    width: 500px;
+    background-color: rgba(0, 183, 255, 0.329);
+    text-align: center;
+}
+#dish-name{
+    color: white;
+}
